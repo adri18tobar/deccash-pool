@@ -1,0 +1,55 @@
+2020-05-27 16:57:49 Error with sendTransaction RPC request to wallet daemon {"code":-32700,"data":{"application_code":9},"message":"Wrong amount"}
+2020-05-27 16:57:49 Payments failed to send to {"amount":31000000,"address":"dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r"}
+2020-05-27 17:07:49 Error with sendTransaction RPC request to wallet daemon {"code":-32700,"data":{"application_code":9},"message":"Wrong amount"}
+2020-05-27 17:07:49 Payments failed to send to {"amount":32000000,"address":"dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r"}
+2020-05-27 17:17:49 Error with sendTransaction RPC request to wallet daemon {"code":-32700,"data":{"application_code":9},"message":"Wrong amount"}
+2020-05-27 17:17:49 Payments failed to send to {"amount":35000000,"address":"dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r"}
+2020-05-27 17:27:49 Error with sendTransaction RPC request to wallet daemon {"code":-32700,"data":{"application_code":9},"message":"Wrong amount"}
+2020-05-27 17:27:49 Payments failed to send to {"amount":36000000,"address":"dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r"}
+2020-05-27 17:37:49 Error with sendTransaction RPC request to wallet daemon {"code":-32700,"data":{"application_code":9},"message":"Wrong amount"}
+2020-05-27 17:37:49 Payments failed to send to {"amount":37000000,"address":"dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r"}
+2020-05-27 17:47:49 Error with sendTransaction RPC request to wallet daemon {"code":-32700,"data":{"application_code":9},"message":"Wrong amount"}
+2020-05-27 17:47:49 Payments failed to send to {"amount":37000000,"address":"dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r"}
+2020-05-27 17:57:49 Error with sendTransaction RPC request to wallet daemon {"code":-32700,"data":{"application_code":9},"message":"Wrong amount"}
+2020-05-27 17:57:49 Payments failed to send to {"amount":38000000,"address":"dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r"}
+2020-05-27 18:07:49 Error with sendTransaction RPC request to wallet daemon {"code":-32700,"data":{"application_code":9},"message":"Wrong amount"}
+2020-05-27 18:07:49 Payments failed to send to {"amount":39000000,"address":"dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r"}
+2020-05-27 18:17:49 Error with sendTransaction RPC request to wallet daemon {"code":-32700,"data":{"application_code":9},"message":"Wrong amount"}
+2020-05-27 18:17:49 Payments failed to send to {"amount":41000000,"address":"dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r"}
+2020-05-27 18:27:49 Error with sendTransaction RPC request to wallet daemon {"code":-32700,"data":{"application_code":9},"message":"Wrong amount"}
+2020-05-27 18:27:49 Payments failed to send to {"amount":43000000,"address":"dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r"}
+2020-05-27 18:37:49 Error with sendTransaction RPC request to wallet daemon {"code":-32700,"data":{"application_code":9},"message":"Wrong amount"}
+2020-05-27 18:37:49 Payments failed to send to {"amount":44000000,"address":"dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r"}
+2020-05-27 18:47:49 Error with sendTransaction RPC request to wallet daemon {"code":-32700,"data":{"application_code":9},"message":"Wrong amount"}
+2020-05-27 18:47:49 Payments failed to send to {"amount":46000000,"address":"dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r"}
+2020-05-27 18:57:49 Error with sendTransaction RPC request to wallet daemon {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":28285}
+2020-05-27 18:57:49 Payments failed to send to {"amount":47000000,"address":"dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r"}
+2020-05-27 18:59:02 Error with sendTransaction RPC request to wallet daemon {"code":-32700,"data":{"application_code":9},"message":"Wrong amount"}
+2020-05-27 18:59:02 Payments failed to send to {"amount":47000000,"address":"dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r"}
+2020-05-27 19:09:02 Error with sendTransaction RPC request to wallet daemon {"code":-32700,"data":{"application_code":9},"message":"Wrong amount"}
+2020-05-27 19:09:02 Payments failed to send to {"amount":49000000,"address":"dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r"}
+2020-05-27 19:17:36 Error with sendTransaction RPC request to wallet daemon {"code":-32700,"data":{"application_code":17},"message":"Transaction fee is too small"}
+2020-05-27 19:17:36 Payments failed to send to {"amount":49000000,"address":"dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r"}
+2020-05-27 19:19:25 Error with sendTransaction RPC request to wallet daemon {"code":-32700,"data":{"application_code":9},"message":"Wrong amount"}
+2020-05-27 19:19:25 Payments failed to send to {"amount":49000000,"address":"dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r"}
+2020-05-28 00:42:25 Error with sendTransaction RPC request to wallet daemon {"code":-32700,"data":{"application_code":9},"message":"Wrong amount"}
+2020-05-28 00:42:25 Payments failed to send to {"amount":30000000,"address":"dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r"}
+2020-05-28 00:52:25 Error with sendTransaction RPC request to wallet daemon {"code":-32700,"data":{"application_code":9},"message":"Wrong amount"}
+2020-05-28 00:52:25 Payments failed to send to {"amount":31000000,"address":"dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r"}
+2020-07-19 04:45:14 Error with sendTransaction RPC request to wallet daemon {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":28285}
+2020-07-19 04:45:14 Payments failed to send to {"amount":3000000,"address":"dECASH2J81zSYZBz7oAfQXFzm7mP4hjrxFG4hD7GZQJXNgSv73p6cABFCCq8oxN8oKPffv7Eh4WcP9fg8AbCnx4Xiqap9WNLE5F18"}
+2020-07-19 04:52:40 Error with sendTransaction RPC request to wallet daemon {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":28285}
+2020-07-19 04:52:40 Payments failed to send to {"amount":4000000,"address":"dECASH2J81zSYZBz7oAfQXFzm7mP4hjrxFG4hD7GZQJXNgSv73p6cABFCCq8oxN8oKPffv7Eh4WcP9fg8AbCnx4Xiqap9WNLE5F18"} { amount: 0,
+  address: 'dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r' }
+2020-07-19 04:57:57 Error with sendTransaction RPC request to wallet daemon {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":28285}
+2020-07-19 04:57:57 Payments failed to send to {"amount":5000000,"address":"dECASH2J81zSYZBz7oAfQXFzm7mP4hjrxFG4hD7GZQJXNgSv73p6cABFCCq8oxN8oKPffv7Eh4WcP9fg8AbCnx4Xiqap9WNLE5F18"} { amount: 0,
+  address: 'dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r' }
+2020-07-19 05:06:38 Error with sendTransaction RPC request to wallet daemon {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":28285}
+2020-07-19 05:06:38 Payments failed to send to {"amount":5000000,"address":"dECASH2J81zSYZBz7oAfQXFzm7mP4hjrxFG4hD7GZQJXNgSv73p6cABFCCq8oxN8oKPffv7Eh4WcP9fg8AbCnx4Xiqap9WNLE5F18"}
+2020-07-19 05:07:12 Error with sendTransaction RPC request to wallet daemon {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":28285}
+2020-07-19 05:07:12 Payments failed to send to {"amount":5000000,"address":"dECASH2J81zSYZBz7oAfQXFzm7mP4hjrxFG4hD7GZQJXNgSv73p6cABFCCq8oxN8oKPffv7Eh4WcP9fg8AbCnx4Xiqap9WNLE5F18"}
+2020-07-19 05:08:58 Error with sendTransaction RPC request to wallet daemon {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":28285}
+2020-07-19 05:08:58 Payments failed to send to {"amount":5000000,"address":"dECASH2J81zSYZBz7oAfQXFzm7mP4hjrxFG4hD7GZQJXNgSv73p6cABFCCq8oxN8oKPffv7Eh4WcP9fg8AbCnx4Xiqap9WNLE5F18"}
+2020-07-19 05:14:13 Error with sendTransaction RPC request to wallet daemon {"code":-32700,"data":{"application_code":11},"message":"The destination is empty"}
+2020-07-19 05:14:13 Payments failed to send to {"amount":0,"address":"dECASH2J81zSYZBz7oAfQXFzm7mP4hjrxFG4hD7GZQJXNgSv73p6cABFCCq8oxN8oKPffv7Eh4WcP9fg8AbCnx4Xiqap9WNLE5F18"} { amount: 0,
+  address: 'dECASH22TSkHAHdheh9c1kZZwRdzkSUp2CJFuPtJ3P9uD5kCjQgqMub3PG88fnH54FFaGnYqqHRgSPb89nrwXnZui5ucJeui3Sp3r' }
